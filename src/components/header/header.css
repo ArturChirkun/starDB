@@ -1,0 +1,23 @@
+.header { 
+   margin-top: .5rem ;
+   padding-left: 10px;
+}
+.header h1 {
+    font-size: 30px;
+}
+.header ul li {
+    list-style: none;
+    padding: .5rem 1rem;
+    margin: 0;
+    border-radius: 3px;
+}
+.header ul li a {
+    text-decoration: none;
+}
+.header ul li:hover {
+    background-color: green;
+}
+.header button {
+    margin-top: 3px;
+    height: 2.2rem;
+}
