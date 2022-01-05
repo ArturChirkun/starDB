@@ -5,7 +5,7 @@ import './header.css';
 const Header = ({onContextChange}) => {
     return (
         <div className='header d-flex'>
-            <h1> Star DB</h1>
+            <h1> Star-Wars DB</h1>
                 <ul className='d-flex'>
                     <li>
                         <a href='#'>
